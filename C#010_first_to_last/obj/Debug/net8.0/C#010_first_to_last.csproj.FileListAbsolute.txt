@@ -1,0 +1,5 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.sourcelink.json
