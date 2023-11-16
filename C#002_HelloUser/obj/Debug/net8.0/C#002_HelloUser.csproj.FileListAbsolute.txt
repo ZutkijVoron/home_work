@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\bin\Debug\net8.0\C#002_HelloUser.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\bin\Debug\net8.0\C#002_HelloUser.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\bin\Debug\net8.0\C#002_HelloUser.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\bin\Debug\net8.0\C#002_HelloUser.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\bin\Debug\net8.0\C#002_HelloUser.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\refint\C#002_HelloUser.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\C#002_HelloUser.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#002_HelloUser\obj\Debug\net8.0\ref\C#002_HelloUser.dll
