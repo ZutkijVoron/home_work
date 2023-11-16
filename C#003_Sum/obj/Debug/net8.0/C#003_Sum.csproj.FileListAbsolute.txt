@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\bin\Debug\net8.0\C#003_Sum.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\bin\Debug\net8.0\C#003_Sum.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\bin\Debug\net8.0\C#003_Sum.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\bin\Debug\net8.0\C#003_Sum.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\bin\Debug\net8.0\C#003_Sum.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\refint\C#003_Sum.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\C#003_Sum.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#003_Sum\obj\Debug\net8.0\ref\C#003_Sum.dll
