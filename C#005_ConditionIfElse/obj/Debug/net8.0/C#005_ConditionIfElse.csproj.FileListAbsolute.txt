@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\bin\Debug\net8.0\C#005_ConditionIfElse.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\bin\Debug\net8.0\C#005_ConditionIfElse.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\bin\Debug\net8.0\C#005_ConditionIfElse.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\bin\Debug\net8.0\C#005_ConditionIfElse.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\bin\Debug\net8.0\C#005_ConditionIfElse.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\refint\C#005_ConditionIfElse.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\C#005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#005_ConditionIfElse\obj\Debug\net8.0\ref\C#005_ConditionIfElse.dll
