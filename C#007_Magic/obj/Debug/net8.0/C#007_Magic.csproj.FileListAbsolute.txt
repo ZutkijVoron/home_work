@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\bin\Debug\net8.0\C#007_Magic.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\bin\Debug\net8.0\C#007_Magic.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\bin\Debug\net8.0\C#007_Magic.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\bin\Debug\net8.0\C#007_Magic.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\bin\Debug\net8.0\C#007_Magic.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\refint\C#007_Magic.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\C#007_Magic.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#007_Magic\obj\Debug\net8.0\ref\C#007_Magic.dll
