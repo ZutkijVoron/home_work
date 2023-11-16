@@ -3,3 +3,13 @@ C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debu
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.AssemblyInfo.cs
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.csproj.CoreCompileInputs.cache
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\bin\Debug\net8.0\C#010_first_to_last.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\bin\Debug\net8.0\C#010_first_to_last.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\bin\Debug\net8.0\C#010_first_to_last.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\bin\Debug\net8.0\C#010_first_to_last.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\bin\Debug\net8.0\C#010_first_to_last.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\refint\C#010_first_to_last.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\C#010_first_to_last.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#010_first_to_last\obj\Debug\net8.0\ref\C#010_first_to_last.dll
