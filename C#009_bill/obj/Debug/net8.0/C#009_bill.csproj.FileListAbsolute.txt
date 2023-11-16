@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\bin\Debug\net8.0\C#009_bill.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\bin\Debug\net8.0\C#009_bill.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\bin\Debug\net8.0\C#009_bill.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\bin\Debug\net8.0\C#009_bill.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\bin\Debug\net8.0\C#009_bill.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\refint\C#009_bill.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\C#009_bill.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#009_bill\obj\Debug\net8.0\ref\C#009_bill.dll
