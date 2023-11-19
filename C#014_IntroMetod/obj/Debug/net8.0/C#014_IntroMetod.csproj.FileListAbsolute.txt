@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\bin\Debug\net8.0\C#014_IntroMetod.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\bin\Debug\net8.0\C#014_IntroMetod.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\bin\Debug\net8.0\C#014_IntroMetod.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\bin\Debug\net8.0\C#014_IntroMetod.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\bin\Debug\net8.0\C#014_IntroMetod.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\refint\C#014_IntroMetod.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\C#014_IntroMetod.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#014_IntroMetod\obj\Debug\net8.0\ref\C#014_IntroMetod.dll

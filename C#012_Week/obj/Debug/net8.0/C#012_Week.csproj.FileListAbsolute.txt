@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\bin\Debug\net8.0\C#012_Week.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\bin\Debug\net8.0\C#012_Week.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\bin\Debug\net8.0\C#012_Week.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\bin\Debug\net8.0\C#012_Week.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\bin\Debug\net8.0\C#012_Week.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\refint\C#012_Week.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\C#012_Week.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#012_Week\obj\Debug\net8.0\ref\C#012_Week.dll

@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\bin\Debug\net8.0\C#015_Array.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\bin\Debug\net8.0\C#015_Array.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\bin\Debug\net8.0\C#015_Array.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\bin\Debug\net8.0\C#015_Array.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\bin\Debug\net8.0\C#015_Array.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\refint\C#015_Array.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\C#015_Array.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#015_Array\obj\Debug\net8.0\ref\C#015_Array.dll

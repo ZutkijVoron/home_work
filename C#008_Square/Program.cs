@@ -1,12 +1,4 @@
-﻿Console.WriteLine("numder 1");
-double numberA = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("number 2");
-double numberB = Convert.ToInt32(Console.ReadLine());
-if ((numberB * numberB) == numberA)
-{
-    Console.WriteLine("It's a Square");
-}
-else
-{
-    Console.WriteLine("It's not a Square");
-}
+﻿Console.Write("numder ");
+double number = Convert.ToInt32(Console.ReadLine());
+double sqr = number * 2;
+Console.Write(sqr);
