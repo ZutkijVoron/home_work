@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\bin\Debug\net8.0\C#019_array_classwork.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\bin\Debug\net8.0\C#019_array_classwork.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\bin\Debug\net8.0\C#019_array_classwork.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\bin\Debug\net8.0\C#019_array_classwork.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\bin\Debug\net8.0\C#019_array_classwork.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\refint\C#019_array_classwork.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\C#019_array_classwork.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#019_array_classwork\obj\Debug\net8.0\ref\C#019_array_classwork.dll
