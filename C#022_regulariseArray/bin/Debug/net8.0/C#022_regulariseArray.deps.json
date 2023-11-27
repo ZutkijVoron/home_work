@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#022_regulariseArray/1.0.0": {
+        "runtime": {
+          "C#022_regulariseArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#022_regulariseArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

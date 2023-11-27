@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\bin\Debug\net8.0\C#021_method.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\bin\Debug\net8.0\C#021_method.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\bin\Debug\net8.0\C#021_method.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\bin\Debug\net8.0\C#021_method.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\bin\Debug\net8.0\C#021_method.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\refint\C#021_method.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\C#021_method.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#021_method\obj\Debug\net8.0\ref\C#021_method.dll

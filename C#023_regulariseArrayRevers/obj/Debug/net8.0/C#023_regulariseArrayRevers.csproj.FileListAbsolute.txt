@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\bin\Debug\net8.0\C#023_regulariseArrayRevers.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\bin\Debug\net8.0\C#023_regulariseArrayRevers.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\bin\Debug\net8.0\C#023_regulariseArrayRevers.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\bin\Debug\net8.0\C#023_regulariseArrayRevers.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\bin\Debug\net8.0\C#023_regulariseArrayRevers.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\refint\C#023_regulariseArrayRevers.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\C#023_regulariseArrayRevers.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#023_regulariseArrayRevers\obj\Debug\net8.0\ref\C#023_regulariseArrayRevers.dll

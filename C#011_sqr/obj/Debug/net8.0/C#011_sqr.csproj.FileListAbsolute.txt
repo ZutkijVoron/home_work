@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\bin\Debug\net8.0\C#011_sqr.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\bin\Debug\net8.0\C#011_sqr.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\bin\Debug\net8.0\C#011_sqr.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\bin\Debug\net8.0\C#011_sqr.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\bin\Debug\net8.0\C#011_sqr.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\refint\C#011_sqr.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\C#011_sqr.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#011_sqr\obj\Debug\net8.0\ref\C#011_sqr.dll

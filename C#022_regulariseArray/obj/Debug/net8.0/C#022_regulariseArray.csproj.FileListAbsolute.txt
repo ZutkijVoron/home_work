@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\bin\Debug\net8.0\C#022_regulariseArray.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\bin\Debug\net8.0\C#022_regulariseArray.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\bin\Debug\net8.0\C#022_regulariseArray.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\bin\Debug\net8.0\C#022_regulariseArray.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\bin\Debug\net8.0\C#022_regulariseArray.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\refint\C#022_regulariseArray.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\C#022_regulariseArray.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#022_regulariseArray\obj\Debug\net8.0\ref\C#022_regulariseArray.dll

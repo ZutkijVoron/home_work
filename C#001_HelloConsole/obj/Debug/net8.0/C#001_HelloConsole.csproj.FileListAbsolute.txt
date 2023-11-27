@@ -12,3 +12,4 @@ C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.pdb
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.genruntimeconfig.cache
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\ref\C#001_HelloConsole.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.sourcelink.json
