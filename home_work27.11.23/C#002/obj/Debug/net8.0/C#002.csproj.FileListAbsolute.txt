@@ -1,0 +1,15 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\bin\Debug\net8.0\C#002.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\bin\Debug\net8.0\C#002.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\bin\Debug\net8.0\C#002.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\bin\Debug\net8.0\C#002.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\bin\Debug\net8.0\C#002.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\refint\C#002.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\C#002.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work27.11.23\C#002\obj\Debug\net8.0\ref\C#002.dll
