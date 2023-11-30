@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#024_class", "C#024_class\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{DF0F2663-30E2-455E-8B06-19288F664460}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#027_2darray", "C#027_2darray\C#027_2darray.csproj", "{4471FCDE-BAC3-4747-9CD1-E2BA63CFBE94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,10 @@ Global
 		{DF0F2663-30E2-455E-8B06-19288F664460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF0F2663-30E2-455E-8B06-19288F664460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF0F2663-30E2-455E-8B06-19288F664460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4471FCDE-BAC3-4747-9CD1-E2BA63CFBE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4471FCDE-BAC3-4747-9CD1-E2BA63CFBE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4471FCDE-BAC3-4747-9CD1-E2BA63CFBE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4471FCDE-BAC3-4747-9CD1-E2BA63CFBE94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

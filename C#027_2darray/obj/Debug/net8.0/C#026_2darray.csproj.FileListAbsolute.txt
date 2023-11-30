@@ -1,0 +1,30 @@
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.exe
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.deps.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.runtimeconfig.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.AssemblyInfoInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.AssemblyInfo.cs
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.csproj.CoreCompileInputs.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.sourcelink.json
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\refint\C#026_2darray.dll
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.pdb
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.genruntimeconfig.cache
+C:\Users\zokam\Desktop\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\ref\C#026_2darray.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.exe
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.deps.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.runtimeconfig.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\bin\Debug\net8.0\C#026_2darray.pdb
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.AssemblyInfoInputs.cache
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.AssemblyInfo.cs
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.csproj.CoreCompileInputs.cache
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.sourcelink.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\refint\C#026_2darray.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.pdb
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\C#026_2darray.genruntimeconfig.cache
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#026_2darray\obj\Debug\net8.0\ref\C#026_2darray.dll

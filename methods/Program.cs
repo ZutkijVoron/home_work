@@ -139,3 +139,52 @@ int CountPrimes(int[] array)
     }
     return count;
 }
+// вывод 2 мурного массива
+void Print2DIntArray(int[,] array)
+{
+    for (int rows = 0; rows < array.GetLength(0); rows++)
+    {
+        for (int columns = 0; columns < array.GetLength(1); columns++)
+        {
+            System.Console.Write($"{array[rows, columns]} ");
+        }
+        System.Console.WriteLine();
+    }
+}
+// заполнение рандомными числами 2 мерного массива
+void Fill2DIntArray(int[,] array, int leftRange, int rihtRange)
+{
+    Random rand = new Random();
+    for (int rows = 0; rows < array.GetLength(0); rows++)
+    {
+        System.Console.WriteLine();
+        for (int columns = 0; columns < array.GetLength(1); columns++)
+        {
+            array[rows, columns] = rand.Next(leftRange, rihtRange);
+        }
+    }
+}
+// поиск факториала
+double Factorial(int n)
+{
+    if (n == 0 || n == 1)
+    {
+        return 1;
+    }
+    else
+    {
+        return n * Factorial(n - 1);
+    }
+}
+// поиск числа фибоначи
+double Fibonacci(int n)
+{
+    if (n == 1 || n == 2)
+    {
+        return 1;
+    }
+    else
+    {
+        return Fibonacci(n - 1) + Fibonacci(n - 2);
+    }
+}

@@ -8,7 +8,16 @@
 
 void ParityCheck(int number)
 {
-    if (number % 2 == 0)
+    int num = number;
+    for (int i = 0; num == 0; i++)
+    {
+        num = num / 10
+    }
+    for (int j = 0; j > i; j++)
+    {
+        num = num + number % 10;
+    }
+    if (num % 2 == 0)
     {
         Environment.Exit(0);
     }
