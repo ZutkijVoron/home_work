@@ -8,14 +8,15 @@
 
 void ParityCheck(int number)
 {
-    int num = number;
-    for (int i = 0; num == 0; i++)
+    int num = number; int i = 0;
+    for (; num == 0; i++)
     {
-        num = num / 10
+        num = num / 10;
     }
     for (int j = 0; j > i; j++)
     {
         num = num + number % 10;
+        number = number % 10;
     }
     if (num % 2 == 0)
     {

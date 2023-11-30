@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#007_Magic\\C#007_Magic.csproj",
+      "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#007_Magic\\C#007_Magic.csproj",
       "projectName": "C#007_Magic",
-      "projectPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#007_Magic\\C#007_Magic.csproj",
+      "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#007_Magic\\C#007_Magic.csproj",
       "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#007_Magic\\obj\\",
+      "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#007_Magic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

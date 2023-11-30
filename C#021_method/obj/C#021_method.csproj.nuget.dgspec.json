@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj": {}
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj": {
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj",
+        "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj",
         "projectName": "C#021_method",
-        "projectPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj",
+        "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#021_method\\C#021_method.csproj",
         "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#021_method\\obj\\",
+        "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#021_method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

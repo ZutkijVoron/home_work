@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj": {}
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj": {
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj",
+        "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj",
         "projectName": "C#018_class",
-        "projectPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj",
+        "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#018_class\\C#018_class.csproj",
         "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#018_class\\obj\\",
+        "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#018_class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

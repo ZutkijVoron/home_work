@@ -188,3 +188,51 @@ double Fibonacci(int n)
         return Fibonacci(n - 1) + Fibonacci(n - 2);
     }
 }
+// нахождение среднего числа в строках
+double[] FindAverageInRows(int[,] matrix)
+{
+    double[] averageArray = new double[matrix.GetLength(0)];
+
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            averageArray[i] += matrix[i, j];
+        }
+        averageArray[i] = Math.Round(averageArray[i] / matrix.GetLength(1), 3);
+    }
+
+    return averageArray;
+}
+// создание и заполнение двух мерного массива
+int[,] CreateandFill2DIntArray(int rows, int columns, int leftRange, int rihtRange)
+{
+    int[,] tempmatrix = new int[rows, columns];
+    Random rand = new Random();
+    for (int i = 0; i < tempmatrix.GetLength(0); i++)
+    {
+        System.Console.WriteLine();
+        for (int j = 0; j < tempmatrix.GetLength(1); j++)
+        {
+            tempmatrix[i, j] = rand.Next(leftRange, rihtRange);
+        }
+    }
+    return tempmatrix;
+}
+// сумма чисел двух мерного массава, которые находятся по диагонали
+int SummLine(int[,] matrix)
+{
+    int sum = 0;
+    for (int i = 0; i < matrix.GetLength(0) && i < matrix.GetLength(1); i++)
+    {
+        sum += matrix[i, i];
+    }
+    System.Console.WriteLine(sum);
+    return sum;
+}
+
+
+
+
+
+

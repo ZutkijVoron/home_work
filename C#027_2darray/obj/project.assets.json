@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#026_2darray\\C#026_2darray.csproj",
-      "projectName": "C#026_2darray",
-      "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#026_2darray\\C#026_2darray.csproj",
+      "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#027_2darray\\C#027_2darray.csproj",
+      "projectName": "C#027_2darray",
+      "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#027_2darray\\C#027_2darray.csproj",
       "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#026_2darray\\obj\\",
+      "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#027_2darray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

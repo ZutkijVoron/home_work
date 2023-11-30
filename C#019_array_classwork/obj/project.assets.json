@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#019_array_classwork\\C#019_array_classwork.csproj",
+      "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#019_array_classwork\\C#019_array_classwork.csproj",
       "projectName": "C#019_array_classwork",
-      "projectPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#019_array_classwork\\C#019_array_classwork.csproj",
+      "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#019_array_classwork\\C#019_array_classwork.csproj",
       "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#019_array_classwork\\obj\\",
+      "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#019_array_classwork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

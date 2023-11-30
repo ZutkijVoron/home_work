@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj": {}
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj": {
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj",
+        "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj",
         "projectName": "C#005_ConditionIfElse",
-        "projectPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj",
+        "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\C#005_ConditionIfElse.csproj",
         "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\obj\\",
+        "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#005_ConditionIfElse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

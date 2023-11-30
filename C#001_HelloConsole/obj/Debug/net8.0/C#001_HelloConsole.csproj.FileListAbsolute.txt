@@ -13,3 +13,18 @@ C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.genruntimeconfig.cache
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\ref\C#001_HelloConsole.dll
 C:\Users\zokam\Desktop\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.sourcelink.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\bin\Debug\net8.0\C#001_HelloConsole.exe
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\bin\Debug\net8.0\C#001_HelloConsole.deps.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\bin\Debug\net8.0\C#001_HelloConsole.runtimeconfig.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\bin\Debug\net8.0\C#001_HelloConsole.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\bin\Debug\net8.0\C#001_HelloConsole.pdb
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.AssemblyInfo.cs
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.sourcelink.json
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\refint\C#001_HelloConsole.dll
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.pdb
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\C#001_HelloConsole.genruntimeconfig.cache
+C:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\C#001_HelloConsole\obj\Debug\net8.0\ref\C#001_HelloConsole.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#015_Array\\C#015_Array.csproj",
+      "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#015_Array\\C#015_Array.csproj",
       "projectName": "C#015_Array",
-      "projectPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#015_Array\\C#015_Array.csproj",
+      "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#015_Array\\C#015_Array.csproj",
       "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\C#015_Array\\obj\\",
+      "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\C#015_Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj": {}
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj": {}
   },
   "projects": {
-    "c:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj": {
+    "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj",
+        "projectUniqueName": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj",
         "projectName": "C#001",
-        "projectPath": "c:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj",
+        "projectPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\C#001.csproj",
         "packagesPath": "C:\\Users\\zokam\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\zokam\\Desktop\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\obj\\",
+        "outputPath": "C:\\Users\\zokam\\OneDrive\\Рабочий стол\\Новая папка (2)\\C#\\home_work27.11.23\\C#001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zokam\\AppData\\Roaming\\NuGet\\NuGet.Config"
