@@ -13,3 +13,18 @@ C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work24.11.23\C#004\obj\
 C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.pdb
 C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.genruntimeconfig.cache
 C:\Users\zokam\Desktop\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\ref\C#004.dll
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\bin\Debug\net8.0\C#004.exe
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\bin\Debug\net8.0\C#004.deps.json
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\bin\Debug\net8.0\C#004.runtimeconfig.json
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\bin\Debug\net8.0\C#004.dll
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\bin\Debug\net8.0\C#004.pdb
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.AssemblyInfoInputs.cache
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.AssemblyInfo.cs
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.csproj.CoreCompileInputs.cache
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.sourcelink.json
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.dll
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\refint\C#004.dll
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.pdb
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\C#004.genruntimeconfig.cache
+c:\Users\zokam\OneDrive\Рабочий стол\Новая папка (2)\C#\home_work24.11.23\C#004\obj\Debug\net8.0\ref\C#004.dll

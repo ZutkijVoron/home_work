@@ -1,4 +1,4 @@
-﻿//Чтение числа
+﻿// Чтение числа
 int ReadInt(string text)
 {
     System.Console.WriteLine(text);
@@ -34,7 +34,7 @@ void FindNumber(int[] array, int N)
         System.Console.WriteLine("Нет");
     }
 }
-// меняет значения на противоположное
+// меняет значения на противоположное(-/+)
 void reversal(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -230,9 +230,60 @@ int SummLine(int[,] matrix)
     System.Console.WriteLine(sum);
     return sum;
 }
+// поиск числа в двух мерном массиве по строке и колонке
+void SearchIntIn2DArray(int[,] array, int row, int column)
+{
+    if (row > array.GetLength(0) || column > array.GetLength(1))
+    {
+        System.Console.WriteLine("данного числа нет в массиве");
+    }
+    else
+    {
+        System.Console.WriteLine(array[row, column]);
+    }
+}
+// поиск строки с минимальной суммой 
+int[] RowMinSum(int[,] matrix)
+{
+    int sum = 0;
+    int minsum = 0;
+    int[] min = new int[matrix.GetLength(1)];
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            sum += matrix[i, j];
+        }
+        if (sum < minsum || i == 0)
+        {
+            int b = 0;
+            minsum = sum;
+            for (; b < matrix.GetLength(1); b++)
+            {
+                min[b] = matrix[i, b];
+            }
 
-
-
-
+        }
+        sum = 0;
+    }
+    return min;
+}
+// поменять местами 1 и последнию строки
+void SubstitutionIn2DArray(int[,] mateix)
+{
+    int temp = 0;
+    for (int i = 0; i < mateix.GetLength(0); i++)
+    {
+        for (int j = 0; j < mateix.GetLength(1); j++)
+        {
+            if (i == 0)
+            {
+                temp = mateix[i, j];
+                mateix[i, j] = mateix[(mateix.GetLength(0) - 1), j];
+                mateix[(mateix.GetLength(0) - 1), j] = temp;
+            }
+        }
+    }
+}
 
 
