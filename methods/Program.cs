@@ -2,7 +2,7 @@
 int ReadInt(string text)
 {
     System.Console.WriteLine(text);
-    return Convert.ToInt32(Console.ReadLine());
+    return int.Parse(Console.ReadLine());
 }
 // генерация массива
 int[] GenerateArray(int size, int leftRange, int rihtRange)
