@@ -1,27 +1,4 @@
-﻿// Чтение числа
-int ReadInt(string text)
-{
-    System.Console.WriteLine(text);
-    return int.Parse(Console.ReadLine());
-}
-// генерация массива
-int[] GenerateArray(int size, int leftRange, int rihtRange)
-{
-    int[] tempArray = new int[size];
-    Random rand = new Random();
-    for (int i = 0; i < size; i++)
-    {
-        tempArray[i] = rand.Next(leftRange, rihtRange);
-    }
-    return tempArray;
-}
-// печатанье массива
-void PrintArray(int[] array)
-{
-    System.Console.Write("[" + string.Join(", ", array) + "]");
-    System.Console.WriteLine();
-}
-// пишет да или нет на каждое число
+﻿// пишет да или нет на каждое число
 void FindNumber(int[] array, int N)
 {
     for (int i = 0; i < array.Length; i++)
@@ -51,23 +28,6 @@ int[] Multiplying(int[] array)
         multiplyingArray[i] = array[i] * array[array.Length - i - 1];
     }
     return multiplyingArray;
-}
-// замена сомволов
-string Replase(string txt, char oldValue, char newValue)
-{
-    string result = string.Empty;
-    for (int i = 0; i <= txt.Length - 1; i++)
-    {
-        if (txt[i] == oldValue)
-        {
-            result = result + $"{newValue}";
-        }
-        else
-        {
-            result = result + $"{txt[i]}";
-        }
-    }
-    return result;
 }
 // сортировка массива
 void SortedArray(int[] array)
@@ -139,31 +99,6 @@ int CountPrimes(int[] array)
     }
     return count;
 }
-// вывод 2 мурного массива
-void Print2DIntArray(int[,] array)
-{
-    for (int rows = 0; rows < array.GetLength(0); rows++)
-    {
-        for (int columns = 0; columns < array.GetLength(1); columns++)
-        {
-            System.Console.Write($"{array[rows, columns]} ");
-        }
-        System.Console.WriteLine();
-    }
-}
-// заполнение рандомными числами 2 мерного массива
-void Fill2DIntArray(int[,] array, int leftRange, int rihtRange)
-{
-    Random rand = new Random();
-    for (int rows = 0; rows < array.GetLength(0); rows++)
-    {
-        System.Console.WriteLine();
-        for (int columns = 0; columns < array.GetLength(1); columns++)
-        {
-            array[rows, columns] = rand.Next(leftRange, rihtRange);
-        }
-    }
-}
 // поиск факториала
 double Factorial(int n)
 {
@@ -204,21 +139,6 @@ double[] FindAverageInRows(int[,] matrix)
 
     return averageArray;
 }
-// создание и заполнение двух мерного массива
-int[,] CreateandFill2DIntArray(int rows, int columns, int leftRange, int rihtRange)
-{
-    int[,] tempmatrix = new int[rows, columns];
-    Random rand = new Random();
-    for (int i = 0; i < tempmatrix.GetLength(0); i++)
-    {
-        System.Console.WriteLine();
-        for (int j = 0; j < tempmatrix.GetLength(1); j++)
-        {
-            tempmatrix[i, j] = rand.Next(leftRange, rihtRange);
-        }
-    }
-    return tempmatrix;
-}
 // сумма чисел двух мерного массава, которые находятся по диагонали
 int SummLine(int[,] matrix)
 {
@@ -229,18 +149,6 @@ int SummLine(int[,] matrix)
     }
     System.Console.WriteLine(sum);
     return sum;
-}
-// поиск числа в двух мерном массиве по строке и колонке
-void SearchIntIn2DArray(int[,] array, int row, int column)
-{
-    if (row > array.GetLength(0) || column > array.GetLength(1))
-    {
-        System.Console.WriteLine("данного числа нет в массиве");
-    }
-    else
-    {
-        System.Console.WriteLine(array[row, column]);
-    }
 }
 // поиск строки с минимальной суммой 
 int[] RowMinSum(int[,] matrix)
