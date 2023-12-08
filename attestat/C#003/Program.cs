@@ -2,16 +2,15 @@
 using static System.Console;
 
 
-void PrintReverseArray(int[] array, int i = 0, int count = 1)
+void PrintReverseArray(int[] array, int i = 0)
 {
-    i = array.Length - count;
-    if (i < 0)
+    if (i == array.Length)
     {
         return;
     }
+
+    PrintReverseArray(array, i + 1);
     Write(array[i] + " ");
-    count++;
-    PrintReverseArray(array: array, count: count);
 }
 
 

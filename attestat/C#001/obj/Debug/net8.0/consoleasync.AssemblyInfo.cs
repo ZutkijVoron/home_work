@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consoleasync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+601cdf853b1c1317152d1a797752b59267d5c39d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45eac2fc61e49a64abbd913cf5015a14995e8001")]
 [assembly: System.Reflection.AssemblyProductAttribute("consoleasync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consoleasync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

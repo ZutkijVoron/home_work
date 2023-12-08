@@ -9,11 +9,11 @@ void PrintIntFirstTolast(int first, int last)
     {
         return;
     }
-    else
-    {
-        Write(first + " ");
-        PrintIntFirstTolast(first + 1, last);
-    }
+
+
+    PrintIntFirstTolast(first + 1, last);
+    Write(first + " ");
+
 }
 
 
